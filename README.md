@@ -36,3 +36,6 @@ toonsmith will connect via USB and is recognized by the system as a just like a 
 ## PCB
 
 ![image](https://github.com/user-attachments/assets/1d9380f0-7359-4fe5-9924-f9571d593522)
+
+## 3d case
+<img width="1236" height="701" alt="tonesmith Case f3d" src="https://github.com/user-attachments/assets/de7b2ed1-d6e6-4af1-8303-522c8525bbe1" />
