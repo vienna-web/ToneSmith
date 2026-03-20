@@ -37,7 +37,4 @@ toonsmith will connect via USB and is recognized by the system as a just like a 
 
 ## PCB
 
-![schematic](./assets/schematic.png)
-Left | Right
-:---:|:---:
-![Left PCB](![alt text](image-1.png)) | 
+(![alt text](![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0MzQ0LCJwdXIiOiJibG9iX2lkIn19--1521856345e9dc9b6d08d8823bb801f6297d3c73/image.png))) | 
