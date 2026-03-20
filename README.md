@@ -33,7 +33,7 @@ toonsmith will connect via USB and is recognized by the system as a just like a 
 |Sticker printing    |- | Typeractive | - | 20  | [here]() |
 
 ### Total Estimated Build Cost:
-**$250**
+**$213 including shipping **
 
 ## PCB
 
