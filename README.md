@@ -3,8 +3,8 @@
 
 ## A Professional DIY MIDI Creative Control Surface
 
-ToneSmith Deck is a high-input, USB-MIDI control surface designed to provide fast, tactile access to creative software controls.
-Built around an Arduino Pro Micro and analog multiplexing, ToneSmith Deck replaces repetitive mouse work with precise physical interaction — accelerating editing, sound design, and parameter control workflows.
+ToneSmith Deck is a USB-MIDI control surface designed to provide fast, tactile access to creative software controls.
+Built around an Arduino Pro Micro and analog multiplexing, ToneSmith Deck replaces repetitive mouse work to help  accelerating editing, sound design, and parameter control workflows.
 
 # Key Features
 * 48 total hardware inputs,32 precision 10k potentiometers,16 programmable buttons,USB plug-and-play MIDI output,Navigation controls,Undo / Redo functionality,Expandable firmware,Fully customizable labels and control layout
